@@ -32,12 +32,8 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
-<<<<<<< HEAD
 /lib/firebase_options.dart
-=======
-lib/firebase_options.dart
 
->>>>>>> 28fcced67b7d975fd3f4cc21fa3d07a47a5efe61
 
 # Symbolication related
 app.*.symbols
