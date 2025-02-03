@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391165729759",
+    "project_id": "airplane-mobile-app",
+    "storage_bucket": "airplane-mobile-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391165729759:android:728981f4bb5ae56da8826a",
+        "android_client_info": {
+          "package_name": "com.example.airplane_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2dJCAdLEJQMAk8kXOq6S--plJR1orhp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
